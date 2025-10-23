@@ -1,4 +1,4 @@
-# FilmProject 🎬
+# FitnessTracker 🎬
 
 **Realizado por Omar**  
 Proyecto full-stack de una web de fitness tracker para seguimientos, desarrollado con .NET y Angular.
